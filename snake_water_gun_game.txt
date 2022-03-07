@@ -1,0 +1,7 @@
+ comp       my         win 
+ snake      water      comp
+ snake      gun         my 
+ water      snake       my
+ water       gun        comp
+ gun        snake       comp
+ gun        water        my 
